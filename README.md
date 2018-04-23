@@ -6,4 +6,4 @@ Impact Financial Jr. is a version of the full game Impact Financial designed to 
 Designed by Ronald Villaver 
 Attribution-NonCommercial-NoDerivs 3.0 Philippines (CC BY-NC-ND 3.0 PH)
 
-![](https://raw.githubusercontent.com/rvillaver/PlataPorma/master/Impact Financial Guide.jpg)
+![](https://raw.githubusercontent.com/rvillaver/PlataPorma/master/Impact%20Financial%20Guide.jpg)
