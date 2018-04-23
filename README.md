@@ -7,3 +7,10 @@ Designed by Ronald Villaver
 Attribution-NonCommercial-NoDerivs 3.0 Philippines (CC BY-NC-ND 3.0 PH)
 
 ![](https://raw.githubusercontent.com/rvillaver/ImpactFinancialJunior/master/Impact%20Financial%20Guide.jpg)
+
+[Download Rulebook](Impact%20Financial%20Junior%20Rulebook.pdf)
+
+[Download Print & Play Components](Impact%20Financial%20Junior%20Components.pdf)
+
+[Download Student's Worksheet](Impact%20Financial%20Junior%20Worksheet.pdf)
+
