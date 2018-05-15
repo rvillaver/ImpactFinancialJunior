@@ -14,3 +14,5 @@ Attribution-NonCommercial-NoDerivs 3.0 Philippines (CC BY-NC-ND 3.0 PH)
 
 [Download Student's Worksheet](Impact%20Financial%20Junior%20Worksheet.pdf)
 
+[Download Student's Worksheet with Social Advocacy Module](Impact%20Financial%20Junior%20Worksheet%20with%20Social%20Advocacy%20Module.pdf)
+
